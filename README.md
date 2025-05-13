@@ -14,8 +14,16 @@
 - 📫 How to reach me **nahidularaf@gmail.com**
 
 - ⚡ Fun fact **When I’m not coding, you can find me exploring new tech trends or solving **complex algorithmic challenges** on coding platforms like **Codeforces**.**
+## About Me 👨‍💻
 
-- 
+Hi! I’m **Nahidul Arafat**, a passionate **Software Developer** from Bangladesh and a CSE student at **BUBT**. I specialize in **Full-Stack Development**, with a growing interest in **Artificial Intelligence** and **Real-Time Applications**.
+
+I’ve built projects using **Java**, **Flutter**, **Django**, and **distributed systems**, and I actively sharpen my skills through **Competitive Programming**.
+
+I love collaborating on impactful, tech-driven solutions. Let’s connect and build something great!
+
+🚀 **Tech Stack**: Python, Java, JavaScript, Dart, C, C#, C++, HTML/CSS, Django, Flutter, Firebase, MySQL, SQLite, Git
+
 ### Key Technologies I Work With:
 - **Languages**: Python, Java, JavaScript, Dart, SQL, **C**, **C#**, **C++**
 - **Web Development**: HTML, CSS, JavaScript, Django, React
