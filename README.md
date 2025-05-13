@@ -15,6 +15,14 @@
 
 - ⚡ Fun fact **When I’m not coding, you can find me exploring new tech trends or solving **complex algorithmic challenges** on coding platforms like **Codeforces**.**
 
+- ### Key Technologies I Work With:
+- **Languages**: Python, Java, JavaScript, Dart, SQL, **C**, **C#**, **C++**
+- **Web Development**: HTML, CSS, JavaScript, Django, React
+- **Mobile Development**: Flutter, Android (Java, Kotlin)
+- **AI/ML**: TensorFlow, Scikit-learn, Data Science
+- **Databases**: MySQL, SQLite, Firebase
+- **Tools**: Git, Docker, Firebase, VS Code, PyCharm
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nahidul-arafat-9ab8332ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidul-arafat-9ab8332ba/" height="30" width="40" /></a>
