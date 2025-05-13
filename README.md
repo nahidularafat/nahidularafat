@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nahidul-arafat-9ab8332ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidul-arafat-9ab8332ba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nahidul-arafat-9ab8332ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nahidul-arafat-9ab8332ba/" height="30" width="40" /></a>
+<a href="https://fb.com/nahidul.001arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahidul.001arafat" height="30" width="40" /></a>
 <a href="https://instagram.com/a_r_a_f_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_r_a_f_10" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@nahidul_arafat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nahidul_arafat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nahidularaf" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nahidularaf" height="30" width="40" /></a>
