@@ -52,7 +52,7 @@ HTML, CSS, JavaScript, Django, React
 Flutter, Android (Java/Kotlin)
 
 **AI/ML & Data**  
-TensorFlow, Scikit-learn, Pandas, Data Science
+Pandas, numppy
 
 **Databases**  
 MySQL, SQLite, Firebase
