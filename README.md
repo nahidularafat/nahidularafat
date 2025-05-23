@@ -7,13 +7,7 @@
 
 ![](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
 
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
+- 🔭 I’m currently working on this page.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -56,7 +50,7 @@ I enjoy building impactful tech-driven solutions and love to collaborate with li
 Python, Java, JavaScript, Dart, SQL, C, C#, C++
 
 **Web Development**  
-HTML, CSS, JavaScript, Django, React
+HTML, CSS, JavaScript, Django
 
 **Mobile Development**  
 Flutter, Android (Java/Kotlin)
@@ -115,7 +109,6 @@ Git, Firebase, VS Code, PyCharm
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
 </p>
 
 ---
