@@ -122,3 +122,16 @@ Git, Firebase, VS Code, PyCharm
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nahidularafat&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+
+
+
+
+### 🔥 GitHub Contribution Graph
+
+[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAWON0C&theme=dracula&area=true)](https://github.com/SHAWON0c)
+
+---
+
+
+
+---
