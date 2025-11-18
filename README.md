@@ -124,14 +124,6 @@ Git, Firebase, VS Code, PyCharm
 </p>
 
 
-
-
 ### 🔥 GitHub Contribution Graph
 
-[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SHAWON0C&theme=dracula&area=true)](https://github.com/SHAWON0c)
-
----
-
-
-
----
+[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidularafat&theme=dracula&area=true)](https://github.com/nahidularafat)
