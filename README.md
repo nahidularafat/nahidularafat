@@ -14,9 +14,9 @@ I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **B
 
 My main expertise is **Full-Stack Web Development** with Python, Django, PostgreSQL, REST APIs & JavaScript — and I also build powerful **Desktop Apps** (C# & Java) and cross-platform **Mobile Apps** (Flutter).
 
-- 🖥️ &nbsp; Specialized in **Desktop App Development** with **C#** & **Java**
-- ⚙️ &nbsp; Building robust apps with **.NET / WPF / WinForms** and **JavaFX**
-- 🌐 &nbsp; Also fluent in **Full-Stack Web Dev** with Django & Flutter
+- 💻 &nbsp; Main focus: **Full-Stack Development** with Django & modern web tech
+- 🖥️ &nbsp; Desktop apps with **C# (.NET / WPF / WinForms)** & **Java (JavaFX)**
+- 📱 &nbsp; Mobile apps with **Flutter** (cross-platform)
 - 🌱 &nbsp; Deep-diving into **Machine Learning** & **Data Analysis**
 - 🏆 &nbsp; Competitive programmer on **Codeforces**
 - ✉️ &nbsp; Drop a mail: **nahidularaf@gmail.com**
