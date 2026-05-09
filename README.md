@@ -1,120 +1,108 @@
-<h1 align="center">Hi 👋, I'm Nahidul Arafat</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nahidularafat&label=Profile%20views&color=0e75b6&style=flat" alt="nahidularafat" />
-</p>
+![Coding GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
 
-![](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+# Nahidul Arafat
+### Software Engineer · Full-Stack Developer · AI Enthusiast
 
-- 🔭 I’m currently working on this page.
+[![Profile Views](https://komarev.com/ghpvc/?username=nahidularafat&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/nahidularafat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidul-arafat-9ab8332ba/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/nahidul.001arafat)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nahidul_arafat)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arafat0012)
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nahidularafat" alt="nahidularafat" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🌱 Currently Learning:
-- Machine Learning
-- Data Analysis
+## 👨‍💻 About Me
 
-### 👨‍💻 All My Projects:
-- Available at: [github.com/nahidularafat](https://github.com/nahidularafat)
+Hey there! I'm **Nahidul Arafat**, a passionate **Software Developer** from 🇧🇩 Bangladesh and a CSE student at **BUBT**.
 
-### 💬 Ask Me About:
-- Django, Flutter, JavaFX, .NET
-
-### 📫 Reach Me At:
-- **Email**: nahidularaf@gmail.com
-
-### ⚡ Fun Fact:
-When I’m not coding, you’ll find me exploring tech trends or solving **complex algorithmic challenges** on platforms like **Codeforces**.
-
----
-
-## About Me 👨‍💻
-
-Hi! I’m **Nahidul Arafat**, a passionate **Software Developer** from Bangladesh and a CSE student at **BUBT**.  
-I specialize in **Full-Stack Development**, with strong interests in **Artificial Intelligence**, **Real-Time Applications**, and **Competitive Programming**.
-
-I enjoy building impactful tech-driven solutions and love to collaborate with like-minded developers. Let’s connect and build something great!
+- 🔭 Currently building impactful, tech-driven solutions
+- 🌱 Actively learning **Machine Learning** & **Data Analysis**
+- 💡 Interests: **Full-Stack Dev · AI/ML · Real-Time Apps · Competitive Programming**
+- ⚡ Off-screen: exploring tech trends & grinding algorithmic challenges on **Codeforces**
+- 📫 Reach me at **nahidularaf@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages**  
-Python, Java, JavaScript, Dart, SQL, C, C#, C++
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Web Development**  
-HTML, CSS, JavaScript, Django
+### 🌐 Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-**Mobile Development**  
-Flutter, Android (Java/Kotlin)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**AI/ML & Data**  
-Pandas, numppy
+### 🤖 AI / ML & Data
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Databases**  
-MySQL, SQLite, Firebase
-
-**Tools & Platforms**  
-Git, Firebase, VS Code, PyCharm
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nahidul-arafat-9ab8332ba/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/nahidul.001arafat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/a_r_a_f_10" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@nahidul_arafat" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/nahidularaf" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/arafat0012" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-</p>
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠️ Languages and Tools
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidularafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidularafat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahidularafat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
 
-### 🔥 GitHub Contribution Graph
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahidularafat&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidularafat&theme=dracula&area=true)](https://github.com/nahidularafat)
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidularafat&theme=tokyo-night&area=true&hide_border=true)](https://github.com/nahidularafat)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 "Code is not just syntax — it's the art of solving real problems."
+
+*Let's connect and build something amazing together!* 🚀
+
+</div>
