@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Jr.%20Software%20Engineer%20%7C%20Desktop%20App%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Jr.%20Software%20Engineer%20%7C%%20%20%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nahidularafat&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/nahidularafat)
 </div>
