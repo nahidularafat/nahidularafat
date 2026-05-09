@@ -12,7 +12,7 @@
 
 I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh** and a proud CSE student at **BUBT**.
 
-I specialize in building **powerful Desktop Applications** using **C# (.NET / WPF / WinForms)** and **Java (JavaFX / Swing)** — turning complex problems into clean, user-friendly software.
+My main expertise is **Full-Stack Web Development** with Python, Django, PostgreSQL, REST APIs & JavaScript — and I also build powerful **Desktop Apps** (C# & Java) and cross-platform **Mobile Apps** (Flutter).
 
 - 🖥️ &nbsp; Specialized in **Desktop App Development** with **C#** & **Java**
 - ⚙️ &nbsp; Building robust apps with **.NET / WPF / WinForms** and **JavaFX**
