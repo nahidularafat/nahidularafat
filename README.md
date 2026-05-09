@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desktop%20App%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
@@ -12,11 +12,12 @@
 
 I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh** and a proud CSE student at **BUBT**.
 
-I breathe code and live for building **impactful, tech-driven solutions** that make a real difference.
+I specialize in building **powerful Desktop Applications** using **C# (.NET / WPF / WinForms)** and **Java (JavaFX / Swing)** — turning complex problems into clean, user-friendly software.
 
-- 🔭 &nbsp; Building the future, one commit at a time
+- 🖥️ &nbsp; Specialized in **Desktop App Development** with **C#** & **Java**
+- ⚙️ &nbsp; Building robust apps with **.NET / WPF / WinForms** and **JavaFX**
+- 🌐 &nbsp; Also fluent in **Full-Stack Web Dev** with Django & Flutter
 - 🌱 &nbsp; Deep-diving into **Machine Learning** & **Data Analysis**
-- 💡 &nbsp; Obsessed with **Real-Time Apps**, **AI/ML** & **Full-Stack Dev**
 - 🏆 &nbsp; Competitive programmer on **Codeforces**
 - ✉️ &nbsp; Drop a mail: **nahidularaf@gmail.com**
 - ⚡ &nbsp; Fun fact: I debug in my dreams
@@ -43,6 +44,17 @@ I breathe code and live for building **impactful, tech-driven solutions** that m
 ## 💻 Tech Stack
 
 <div align="center">
+
+**Desktop App Development** ⭐ Core Expertise
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 **Languages**
 
@@ -130,8 +142,9 @@ class NahidulArafat:
     def __init__(self):
         self.name       = "Nahidul Arafat"
         self.university = "Bangladesh University of Business & Technology (BUBT)"
-        self.role       = "Software Engineer & Full-Stack Developer"
-        self.languages  = ["Python", "Java", "JavaScript", "Dart", "C++", "C#"]
+        self.role       = "Desktop App Developer & Full-Stack Engineer"
+        self.languages  = ["C#", "Java", "Python", "JavaScript", "Dart", "C++"]
+        self.desktop    = ["WPF", "WinForms", "JavaFX", "Swing", ".NET Framework"]
         self.frameworks = ["Django", "Flutter", ".NET", "Android (Java/Kotlin)"]
         self.databases  = ["MySQL", "SQLite", "Firebase"]
         self.interests  = ["Full-Stack Dev", "AI/ML", "Real-Time Apps",
