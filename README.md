@@ -1,79 +1,103 @@
 <div align="center">
 
-![Coding GIF](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-
-# Nahidul Arafat
-### Software Engineer · Full-Stack Developer · AI Enthusiast
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nahidularafat&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/nahidularafat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidul-arafat-9ab8332ba/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://fb.com/nahidul.001arafat)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@nahidul_arafat)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/arafat0012)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-Hey there! I'm **Nahidul Arafat**, a passionate **Software Developer** from 🇧🇩 Bangladesh and a CSE student at **BUBT**.
+### 👋 Hello, World!
 
-- 🔭 Currently building impactful, tech-driven solutions
-- 🌱 Actively learning **Machine Learning** & **Data Analysis**
-- 💡 Interests: **Full-Stack Dev · AI/ML · Real-Time Apps · Competitive Programming**
-- ⚡ Off-screen: exploring tech trends & grinding algorithmic challenges on **Codeforces**
-- 📫 Reach me at **nahidularaf@gmail.com**
+I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh** and a proud CSE student at **BUBT**.
+
+I breathe code and live for building **impactful, tech-driven solutions** that make a real difference.
+
+- 🔭 &nbsp; Building the future, one commit at a time
+- 🌱 &nbsp; Deep-diving into **Machine Learning** & **Data Analysis**
+- 💡 &nbsp; Obsessed with **Real-Time Apps**, **AI/ML** & **Full-Stack Dev**
+- 🏆 &nbsp; Competitive programmer on **Codeforces**
+- ✉️ &nbsp; Drop a mail: **nahidularaf@gmail.com**
+- ⚡ &nbsp; Fun fact: I debug in my dreams
+
+<br clear="right" />
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Connect With Me
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### 🌐 Web Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidul-arafat-9ab8332ba/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com/nahidul.001arafat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/a_r_a_f_10)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nahidul_arafat)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/arafat0012)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/nahidularaf)
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+**Web & Backend**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🤖 AI / ML & Data
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**AI / ML & Data**
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahidularafat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidularafat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=nahidularafat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidularafat&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" />
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidularafat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nahidularafat&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,7 +107,7 @@ Hey there! I'm **Nahidul Arafat**, a passionate **Software Developer** from 🇧
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahidularafat&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nahidularafat&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -93,7 +117,42 @@ Hey there! I'm **Nahidul Arafat**, a passionate **Software Developer** from 🇧
 
 <div align="center">
 
-[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidularafat&theme=tokyo-night&area=true&hide_border=true)](https://github.com/nahidularafat)
+[![Arafat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nahidularafat&custom_title=Nahidul%20Arafat's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)](https://github.com/nahidularafat)
+
+</div>
+
+---
+
+## 🎯 Who Am I In Code?
+
+```python
+class NahidulArafat:
+    def __init__(self):
+        self.name       = "Nahidul Arafat"
+        self.university = "Bangladesh University of Business & Technology (BUBT)"
+        self.role       = "Software Engineer & Full-Stack Developer"
+        self.languages  = ["Python", "Java", "JavaScript", "Dart", "C++", "C#"]
+        self.frameworks = ["Django", "Flutter", ".NET", "Android (Java/Kotlin)"]
+        self.databases  = ["MySQL", "SQLite", "Firebase"]
+        self.interests  = ["Full-Stack Dev", "AI/ML", "Real-Time Apps",
+                           "Competitive Programming"]
+        self.learning   = ["Machine Learning", "Data Analysis", "Deep Learning"]
+        self.fun_fact   = "I turn coffee into code and bugs into features!"
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = NahidulArafat()
+me.say_hi()
+```
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -101,8 +160,8 @@ Hey there! I'm **Nahidul Arafat**, a passionate **Software Developer** from 🇧
 
 <div align="center">
 
-### 💬 "Code is not just syntax — it's the art of solving real problems."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" />
 
-*Let's connect and build something amazing together!* 🚀
+**If you like my work, consider giving a star to my repositories!**
 
 </div>
