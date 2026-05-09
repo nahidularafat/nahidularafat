@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Desktop%20App%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Jr.%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Desktop%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
@@ -12,11 +12,11 @@
 
 I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh** and a proud CSE student at **BUBT**.
 
-I specialize in building **powerful Desktop Applications** using **C# (.NET / WPF / WinForms)** and **Java (JavaFX / Swing)** — turning complex problems into clean, user-friendly software.
+My main expertise is **Full-Stack Web Development** — and I also build powerful **Desktop Apps** (C# & Java) and cross-platform **Mobile Apps** (Flutter).
 
-- 🖥️ &nbsp; Specialized in **Desktop App Development** with **C#** & **Java**
-- ⚙️ &nbsp; Building robust apps with **.NET / WPF / WinForms** and **JavaFX**
-- 🌐 &nbsp; Also fluent in **Full-Stack Web Dev** with Django & Flutter
+- 💻 &nbsp; Main focus: **Full-Stack Development** with Django & modern web tech
+- 🖥️ &nbsp; Desktop apps with **C# (.NET / WPF / WinForms)** & **Java (JavaFX)**
+- 📱 &nbsp; Mobile apps with **Flutter** (cross-platform)
 - 🌱 &nbsp; Deep-diving into **Machine Learning** & **Data Analysis**
 - 🏆 &nbsp; Competitive programmer on **Codeforces**
 - ✉️ &nbsp; Drop a mail: **nahidularaf@gmail.com**
@@ -45,7 +45,7 @@ I specialize in building **powerful Desktop Applications** using **C# (.NET / WP
 
 <div align="center">
 
-**Desktop App Development** ⭐ Core Expertise
+**Desktop App Development**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -78,7 +78,6 @@ I specialize in building **powerful Desktop Applications** using **C# (.NET / WP
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **AI / ML & Data**
 
@@ -142,10 +141,12 @@ class NahidulArafat:
     def __init__(self):
         self.name       = "Nahidul Arafat"
         self.university = "Bangladesh University of Business & Technology (BUBT)"
-        self.role       = "Desktop App Developer & Full-Stack Engineer"
+        self.role       = "Jr. Software Engineer | Full-Stack Developer"
         self.languages  = ["C#", "Java", "Python", "JavaScript", "Dart", "C++"]
-        self.desktop    = ["WPF", "WinForms", "JavaFX", "Swing", ".NET Framework"]
-        self.frameworks = ["Django", "Flutter", ".NET", "Android (Java/Kotlin)"]
+        self.main_focus = ["Full-Stack Web Dev (Django)", "REST APIs", "Databases"]
+        self.desktop    = ["WPF", "WinForms", "JavaFX", ".NET Framework"]
+        self.mobile     = ["Flutter (cross-platform)"]
+        self.frameworks = ["Django", "Flutter", ".NET"]
         self.databases  = ["MySQL", "SQLite", "Firebase"]
         self.interests  = ["Full-Stack Dev", "AI/ML", "Real-Time Apps",
                            "Competitive Programming"]
