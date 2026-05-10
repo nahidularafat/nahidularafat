@@ -12,7 +12,7 @@
 ### 👋 Hello, World!
 
 
-I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh**, proud CSE student at **BUBT**, and **Founder & CTO** of **[Ondrobit](https://www.ondrobit.com/)** — an innovative software solutions company.
+I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh**, proud CSE student at **BUBT** .
 
 My main expertise is **Full-Stack Web Development** with Python, Django, PostgreSQL, REST APIs & JavaScript — and I also build powerful **Desktop Apps** (C# & Java) and cross-platform **Mobile Apps** (Flutter).
 
