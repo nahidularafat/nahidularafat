@@ -115,17 +115,6 @@ My main expertise is **Full-Stack Web Development** with Python, Django, Postgre
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nahidularafat&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
