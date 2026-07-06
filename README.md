@@ -102,18 +102,6 @@ My main expertise is **Full-Stack Web Development** with Python, Django, Postgre
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=nahidularafat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidularafat&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" />
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nahidularafat&theme=radical&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
 
 
 ## 📈 Contribution Graph
