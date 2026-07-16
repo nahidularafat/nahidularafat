@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Jr.%20Software%20Engineer%20%7C%20%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nahidul%20Arafat&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20IoT%20Engineer&descAlignY=58&descSize=18&animation=twinkling" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=nahidularafat&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/nahidularafat)
+
 </div>
 
 ---
@@ -11,18 +12,16 @@
 
 ### 👋 Hello, World!
 
+I'm **Nahidul Arafat** — a **Software Developer** from 🇧🇩 **Bangladesh**, currently working remotely on a live e-commerce platform, and a Computer Science graduate of **BUBT**.
 
-I'm **Nahidul Arafat** — a passionate **Software Developer** from 🇧🇩 **Bangladesh**, proud CSE student at **BUBT** .
+I build production-grade **full-stack web applications** with Django, DRF, and FastAPI, ship modern **React** front-ends, prototype fast with **Streamlit**, and bring software into the physical world through **IoT & Arduino** systems.
 
-My main expertise is **Full-Stack Web Development** with Python, Django, PostgreSQL, REST APIs & JavaScript — and I also build powerful **Desktop Apps** (C# & Java) and cross-platform **Mobile Apps** (Flutter).
-
-- 🌐 &nbsp; Also fluent in **Full-Stack Web Dev** with Django & React
-- 🖥️ &nbsp; Desktop apps with **C# (.NET / WPF / WinForms)** & **Java (JavaFX)**
-- 📱 &nbsp; Mobile apps with **Flutter** (cross-platform)
-- 🌱 &nbsp; Deep-diving into **Machine Learning** & **Data Analysis**
-- 🏆 &nbsp; Competitive programmer on **Codeforces**
-- ✉️ &nbsp; Drop a mail: **nahidularaf@gmail.com**
-- ⚡ &nbsp; Fun fact: I debug in my dreams
+- 🧱 &nbsp; Full-stack web development — **Django, Django REST Framework, FastAPI, React**
+- 📊 &nbsp; Rapid prototyping & data apps with **Streamlit**
+- 🔌 &nbsp; **IoT & embedded systems** — Arduino, sensors, RFID, real-time hardware integration
+- 🤖 &nbsp; Applied **AI/ML** — computer vision & LLM-powered applications
+- 🏆 &nbsp; Competitive programmer — **500+ problems solved** across Codeforces, CodeChef, VJudge
+- ✉️ &nbsp; Reach me: **nahidularaf@gmail.com**
 
 <br clear="right" />
 
@@ -47,40 +46,42 @@ My main expertise is **Full-Stack Web Development** with Python, Django, Postgre
 
 <div align="center">
 
-**Desktop App Development** ⭐ Core Expertise
+**Backend & APIs** ⭐ Core Expertise
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend & Data Apps**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**IoT & Embedded Systems**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=for-the-badge&logo=internetarchive&logoColor=white)
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-**Web & Backend**
-
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Mobile**
+**Mobile & Desktop**
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **AI / ML & Data**
 
@@ -92,17 +93,26 @@ My main expertise is **Full-Stack Web Development** with Python, Django, Postgre
 **Databases & Tools**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 </div>
 
 ---
 
+## 🚀 What I Build
 
+- **REST & async APIs** with Django REST Framework and FastAPI, serving production web and mobile clients
+- **Full-stack e-commerce & web platforms** — Django backends paired with React front-ends
+- **Data & internal tools** — quick, functional dashboards and prototypes with Streamlit
+- **Smart hardware systems** — Arduino/RFID-based IoT devices bridging sensors, microcontrollers, and cloud backends
+- **Applied AI features** — LLM-powered assistants and computer-vision pipelines integrated into real applications
+
+---
 
 ## 📈 Contribution Graph
 
@@ -121,15 +131,15 @@ class NahidulArafat:
     def __init__(self):
         self.name       = "Nahidul Arafat"
         self.university = "Bangladesh University of Business & Technology (BUBT)"
-        self.role       = "Desktop App Developer & Full-Stack Engineer"
-        self.languages  = ["C#", "Java", "Python", "JavaScript", "Dart", "C++"]
-        self.desktop    = ["WPF", "WinForms", "JavaFX", "Swing", ".NET Framework"]
-        self.frameworks = ["Django", "Flutter", ".NET", "Android (Java/Kotlin)"]
-        self.databases  = ["MySQL", "SQLite", "Firebase"]
-        self.interests  = ["Full-Stack Dev", "AI/ML", "Real-Time Apps",
-                           "Competitive Programming"]
-        self.learning   = ["Machine Learning", "Data Analysis", "Deep Learning"]
-        self.fun_fact   = "I turn coffee into code and bugs into features!"
+        self.role       = "Software Developer — Full-Stack, IoT & AI"
+        self.backend    = ["Django", "Django REST Framework", "FastAPI"]
+        self.frontend   = ["React", "Streamlit", "HTML/CSS", "Bootstrap"]
+        self.iot        = ["Arduino", "RFID", "Sensors", "Embedded Systems"]
+        self.languages  = ["Python", "Java", "C++", "C#", "Dart"]
+        self.ai_ml      = ["LangChain", "YOLOv8", "TensorFlow"]
+        self.databases  = ["PostgreSQL", "MySQL", "SQLite", "Firebase"]
+        self.interests  = ["Full-Stack Dev", "IoT", "Applied AI",
+                            "Competitive Programming"]
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!")
